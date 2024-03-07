@@ -1,0 +1,11 @@
+.navbar-nav .nav-link {
+    color: purple !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: black !important;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
