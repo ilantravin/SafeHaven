@@ -40,8 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'hosted',
     'success_story',
-
-
+    'aid_org',
 
 ]
 
